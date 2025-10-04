@@ -12,5 +12,6 @@ public class NewTestApplication {
 
 }
 
-// TODO: write minio service
+// TODO: customize pagination properties
+// TODO: add job to remove unused photos
 // TODO: write websocket chat
