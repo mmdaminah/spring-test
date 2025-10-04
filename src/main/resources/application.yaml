@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: new-test
+  servlet:
+    multipart:
+      max-file-size: 10MB
+
+minio:
+  url: http://localhost:9000
+  bucket:
+    name: test
+  access:
+    name: admin
+    secret: admin12345
+
+
+upload:
+  bucketNames: [ "file", "logo", "image"]
