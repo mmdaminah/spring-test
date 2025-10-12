@@ -11,7 +11,3 @@ public class NewTestApplication {
     }
 
 }
-
-// TODO: customize pagination properties
-// TODO: add job to remove unused photos
-// TODO: write websocket chat
